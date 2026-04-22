@@ -20,5 +20,3 @@ A aplicação roda no terminal e simula operações básicas de um banco.
 
 - Java
 - Programação Orientada a Objetos (POO)
-- Tratamento de Exceções
-- Scanner (entrada de dados)
